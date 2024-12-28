@@ -1,3 +1,4 @@
+# USE 'Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass' & '.\POE2AffinityProcessLauncher.ps1' to run this script
 # ABOUT ------------------------------------------------------------------------
 # ------------------------------------------------------------------------------
 # AUTHOR: Frosthaven
